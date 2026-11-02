@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: >-
+  Cross-Sectional Heterogeneity in LSTM Networks for Financial Time Series
+message: If you use this code, please cite the paper.
+type: software
+authors:
+  - given-names: Julius
+    family-names: Döbelt
+    affiliation: Technical University of Darmstadt
+    email: julius.doebelt@tu-darmstadt.de
+repository-code: https://github.com/<user>/<repo>
+license: MIT
+keywords:
+  - LSTM
+  - cross-section of stock returns
+  - deep learning
+  - financial markets
+  - explainable AI
+preferred-citation:
+  type: article
+  title: >-
+    Cross-Sectional Heterogeneity in LSTM Networks for Financial Time Series
+  authors:
+    - given-names: Julius
+      family-names: Döbelt
+      affiliation: Technical University of Darmstadt
+  year: 2026

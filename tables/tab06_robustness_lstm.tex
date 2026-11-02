@@ -1,0 +1,38 @@
+\begin{table}[htbp]
+\centering
+\caption{Robustness of the long-short strategy ($k=10$) across LSTM architectures. All figures are pooled over the 27 study periods (1998--2024).}
+\label{tab:robustness_lstm}
+\small
+\begin{tabular}{llcccccccc}
+\toprule
+Layers & Hyper-parameters & Acc.$_{k=10}$ & Acc.$_{all}$ & $\bar{r}$ & $t_{NW}$ & SR & $\bar{r}^{tc}$ & SR$^{tc}$ & $\overline{SR}_{y}$ (sd) \\
+\midrule
+\multicolumn{10}{l}{\textit{LSTM Base}} \\
+\quad 1 & -- & 0.519 & 0.505 & 0.176 & 6.72 & 1.24 & 0.116 & 0.80 & 1.24 (1.96) \\
+\quad 2 & -- & 0.523 & 0.505 & 0.184 & 6.77 & 1.24 & 0.128 & 0.84 & 1.12 (1.50) \\
+\quad 3$^{\dagger}$ & -- & 0.522 & 0.505 & 0.195 & 7.53 & 1.39 & 0.137 & 0.96 & 1.23 (1.45) \\
+\quad 5 & -- & 0.518 & 0.504 & 0.178 & 6.78 & 1.25 & 0.121 & 0.83 & 1.12 (1.56) \\
+\addlinespace
+\multicolumn{10}{l}{\textit{LSTM Sector}} \\
+\quad 1 & $d_{emb}=5$ & 0.523 & 0.506 & 0.186 & 6.83 & 1.25 & 0.130 & 0.85 & 1.34 (1.99) \\
+\quad 2 & $d_{emb}=2$ & 0.523 & 0.505 & 0.197 & 7.61 & 1.40 & 0.143 & 1.00 & 1.42 (1.80) \\
+\quad 3$^{\dagger}$ & $d_{emb}=2$ & 0.525 & 0.506 & 0.210 & 7.92 & 1.49 & 0.163 & 1.14 & 1.46 (1.62) \\
+\quad 5 & $d_{emb}=5$ & 0.521 & 0.505 & 0.181 & 7.42 & 1.37 & 0.139 & 1.03 & 1.19 (1.56) \\
+\addlinespace
+\multicolumn{10}{l}{\textit{LSTM Cov}} \\
+\quad 1 & $B=256$ & 0.524 & 0.504 & 0.180 & 6.04 & 1.11 & 0.125 & 0.75 & 1.14 (1.62) \\
+\quad 2 & drop. 0.5/0.2 & 0.518 & 0.503 & 0.176 & 5.69 & 1.05 & 0.127 & 0.74 & 0.77 (1.57) \\
+\quad 2 & drop. 0.1/0.1, VIX & 0.520 & 0.502 & 0.169 & 5.98 & 1.08 & 0.122 & 0.77 & 0.92 (1.54) \\
+\quad 3 & -- & 0.519 & 0.503 & 0.154 & 5.25 & 0.96 & 0.102 & 0.62 & 0.85 (1.55) \\
+\addlinespace
+\multicolumn{10}{l}{\textit{LSTM Cov+Sector}} \\
+\quad 1 & $d_{emb}=2$ & 0.523 & 0.505 & 0.182 & 6.83 & 1.26 & 0.126 & 0.85 & 1.22 (2.00) \\
+\quad 2 & $d_{emb}=2$ & 0.523 & 0.504 & 0.199 & 6.99 & 1.30 & 0.149 & 0.96 & 1.25 (1.54) \\
+\quad 3 & $d_{emb}=2$, drop. 0.5 & 0.520 & 0.503 & 0.166 & 6.11 & 1.13 & 0.128 & 0.86 & 1.07 (1.43) \\
+\quad 5 & $d_{emb}=2$, drop. 0.5 & 0.514 & 0.503 & 0.133 & 5.11 & 0.92 & 0.103 & 0.70 & 0.85 (1.57) \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{\textwidth}\vspace{2mm}\footnotesize
+Notes: Acc.$_{k=10}$ is the directional accuracy of the 20 stocks held each day (10 long, 10 short); Acc.$_{all}$ is the classification accuracy over all stocks in the cross-section. $\bar{r}$ is the mean daily return of the long-short portfolio in percent, $t_{NW}$ its Newey-West (1 lag) $t$-statistic, and SR the annualized Sharpe ratio computed on excess returns over the risk-free rate. Superscript $tc$ denotes figures after transaction costs of 2 bps per trade. $\overline{SR}_{y}$ is the mean of the 27 period-specific annualized Sharpe ratios, with the standard deviation across periods in parentheses. $^{\dagger}$ marks the specification reported in the main results.
+\end{minipage}
+\end{table}

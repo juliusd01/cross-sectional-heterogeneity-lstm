@@ -1,0 +1,28 @@
+# --- data that cannot be redistributed -------------------------------------
+# Refinitiv / Thomson Reuters price panels and the Bloomberg covariate series.
+data/prices/
+data/covariates.csv
+
+# --- generated intermediates ------------------------------------------------
+data/sequences/
+predictions/
+slurm/logs/*
+!slurm/logs/.gitkeep
+mlruns/
+
+# --- python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- os ---------------------------------------------------------------------
+.DS_Store
+
+# agent settings
+.claude/
+
+# exploratory output not used in the paper
+_archive/

@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\caption{Robustness of the long-short strategy ($k=10$) across the tree-based benchmark specifications. All figures are pooled over the 27 study periods (1998--2024).}
+\label{tab:robustness_benchmark}
+\small
+\begin{tabular}{lcccccccc}
+\toprule
+Specification & Acc.$_{k=10}$ & Acc.$_{all}$ & $\bar{r}$ & $t_{NW}$ & SR & $\bar{r}^{tc}$ & SR$^{tc}$ & $\overline{SR}_{y}$ (sd) \\
+\midrule
+\multicolumn{9}{l}{\textit{Random Forest}} \\
+\quad $n=100$, $d=10$ & 0.519 & 0.506 & 0.186 & 7.76 & 1.44 & 0.129 & 0.98 & 1.40 (1.58) \\
+\quad $n=500$, $d=10$$^{\dagger}$ & 0.520 & 0.506 & 0.208 & 8.48 & 1.57 & 0.155 & 1.15 & 1.48 (1.69) \\
+\quad $n=1000$, $d=20$ & 0.520 & 0.506 & 0.205 & 9.41 & 1.74 & 0.144 & 1.20 & 1.69 (1.73) \\
+\addlinespace
+\multicolumn{9}{l}{\textit{Grad. Boosting}} \\
+\quad $100$ iter., $d=10$ & 0.515 & 0.506 & 0.141 & 6.73 & 1.22 & 0.077 & 0.63 & 1.11 (1.52) \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{\textwidth}\vspace{2mm}\footnotesize
+Notes: Acc.$_{k=10}$ is the directional accuracy of the 20 stocks held each day (10 long, 10 short); Acc.$_{all}$ is the classification accuracy over all stocks in the cross-section. $\bar{r}$ is the mean daily return of the long-short portfolio in percent, $t_{NW}$ its Newey-West (1 lag) $t$-statistic, and SR the annualized Sharpe ratio computed on excess returns over the risk-free rate. Superscript $tc$ denotes figures after transaction costs of 2 bps per trade. $\overline{SR}_{y}$ is the mean of the 27 period-specific annualized Sharpe ratios, with the standard deviation across periods in parentheses. $^{\dagger}$ marks the specification reported in the main results.
+\end{minipage}
+\end{table}
