@@ -12,7 +12,7 @@ module load python/3.11
 export PYTHONPATH="${PYTHONPATH}:$(pwd)/src"
 
 # Covariates plus sector embedding.
-python -u -m lstm_sector.train \
+python -u -m train \
     --model_architecture heterogeneity \
     --input_subdir lag_60_cov_sector \
     --model_type lstm_cov_sector \

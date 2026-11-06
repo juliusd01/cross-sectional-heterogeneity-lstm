@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier, HistGradientBoostingClassif
 from sklearn.metrics import accuracy_score, classification_report
 from datetime import datetime
 
-from .paths import PREDICTIONS, SEQUENCES
+from paths import PREDICTIONS, SEQUENCES
 
 
 def set_seed(seed=123):

@@ -14,8 +14,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scienceplots  # noqa: F401  -- registers the 'science' style
 
-from lstm_sector.paths import FIGURES, SECTORS, SECTORS_11, spec
-from lstm_sector.sector_analysis import load_state_dict
+from paths import FIGURES, SECTORS, SECTORS_11, spec
+from sector_analysis import load_state_dict
 
 plt.style.use('science')
 plt.rcParams['text.usetex'] = False

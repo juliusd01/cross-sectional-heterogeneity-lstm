@@ -15,8 +15,8 @@ from collections import Counter
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from lstm_sector.metrics import load
-from lstm_sector.paths import COMPANY_SECTOR, FIGURES, PRICES, TABLES, spec
+from metrics import load
+from paths import COMPANY_SECTOR, FIGURES, PRICES, TABLES, spec
 
 TABLE_NUMBER = {2007: 'fig13', 2003: 'fig14'}
 

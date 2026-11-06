@@ -12,7 +12,7 @@ module load python/3.11
 export PYTHONPATH="${PYTHONPATH}:$(pwd)/src"
 
 # Base LSTM, returns only.  Table 6 also reports 1, 2 and 5 layers.
-python -u -m lstm_sector.train \
+python -u -m train \
     --model_architecture base \
     --input_subdir lag_60 \
     --model_type lstm \

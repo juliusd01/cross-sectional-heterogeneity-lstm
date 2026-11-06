@@ -14,7 +14,7 @@ export PYTHONPATH="${PYTHONPATH}:$(pwd)/src"
 # Covariate LSTM.  Uses the dual-dropout trainer: without input dropout the
 # validation loss diverges (section 2.4.3).
 # Add --var_left_out vix to reproduce the "without VIX" row of Table 6.
-python -u -m lstm_sector.train_dropout \
+python -u -m train_dropout \
     --model_architecture covariates \
     --input_subdir lag_60_cov \
     --model_type lstm_cov \

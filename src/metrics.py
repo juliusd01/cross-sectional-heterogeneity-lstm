@@ -18,7 +18,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from .paths import DATA, PREDICTIONS, Spec, spec as lookup_spec
+from paths import DATA, PREDICTIONS, Spec, spec as lookup_spec
 
 LIST_COLUMNS = ['flop_stocks', 'top_stocks']
 
@@ -233,7 +233,7 @@ def cross_sectional_accuracy(spec: Spec | str) -> pd.DataFrame:
 
 def risk_free_rate() -> pd.Series:
     """Daily risk-free rate from the Kenneth R. French data library, in percent."""
-    from .paths import MARKET_RETURN
+    from paths import MARKET_RETURN
     market = pd.read_csv(MARKET_RETURN)
     market['date'] = pd.to_datetime(market['date'], format='%Y%m%d')
     return market.set_index('date')['rf']
@@ -241,7 +241,7 @@ def risk_free_rate() -> pd.Series:
 
 def market_return() -> pd.DataFrame:
     """Daily value-weighted US market return (mktrf + rf), in percent."""
-    from .paths import MARKET_RETURN
+    from paths import MARKET_RETURN
     market = pd.read_csv(MARKET_RETURN)
     market['date'] = pd.to_datetime(market['date'], format='%Y%m%d')
     market['return'] = market['mkt-rf'] + market['rf']
@@ -250,7 +250,7 @@ def market_return() -> pd.DataFrame:
 
 def annualised_sharpe(returns: pd.Series, rf: pd.Series | float = 0.0) -> float:
     """Sharpe ratio of a daily return series, annualised by sqrt(252)."""
-    from .paths import TRADING_DAYS
+    from paths import TRADING_DAYS
     excess_ann = (np.mean(returns) - np.mean(rf)) * TRADING_DAYS
     vol_ann = np.std(returns, ddof=1) * np.sqrt(TRADING_DAYS)
     return excess_ann / vol_ann

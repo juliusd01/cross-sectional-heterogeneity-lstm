@@ -9,8 +9,8 @@ from __future__ import annotations
 
 import argparse
 
-from lstm_sector.paths import TABLES
-from lstm_sector.sector_analysis import sector_summary_statistics
+from paths import TABLES
+from sector_analysis import sector_summary_statistics
 
 
 def main() -> None:

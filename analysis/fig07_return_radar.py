@@ -19,8 +19,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import scienceplots  # noqa: F401  -- registers the 'science' style
 
-from lstm_sector.radar import draw, normalise, radar_factory
-from lstm_sector.paths import FIGURES, TABLES
+from radar import draw, normalise, radar_factory
+from paths import FIGURES, TABLES
 
 plt.style.use('science')
 plt.rcParams['text.usetex'] = False

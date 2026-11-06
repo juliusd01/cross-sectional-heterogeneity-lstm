@@ -16,8 +16,8 @@ from statistics import NormalDist
 import numpy as np
 import pandas as pd
 
-from lstm_sector.metrics import load
-from lstm_sector.paths import TABLES, spec
+from metrics import load
+from paths import TABLES, spec
 
 # Accuracy does not depend on transaction costs, so the choice of cost series
 # here is immaterial; 2 bps is used to match the rest of the paper.
@@ -110,7 +110,7 @@ def main() -> None:
         "--model",
         action="append",
         required=False,
-        help="Model as label=spec_key (see lstm_sector.paths.SPECS). Repeat per model.",
+        help="Model as label=spec_key (see paths.SPECS). Repeat per model.",
     )
     parser.add_argument(
         "--output",

@@ -22,8 +22,8 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from lstm_sector.metrics import load
-from lstm_sector.paths import FIGURES, PRICES, TABLES, spec
+from metrics import load
+from paths import FIGURES, PRICES, TABLES, spec
 
 LOOKBACK = 60
 

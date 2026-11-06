@@ -15,8 +15,8 @@ import numpy as np
 import pandas as pd
 from statsmodels.regression.linear_model import OLS
 
-from lstm_sector.metrics import load, market_return, risk_free_rate
-from lstm_sector.paths import DATA, TABLES, TRADING_DAYS, spec
+from metrics import load, market_return, risk_free_rate
+from paths import DATA, TABLES, TRADING_DAYS, spec
 
 # How the strategy return series is scaled before its characteristics are
 # computed.  Only the strategies are rescaled; the market is always in percent.

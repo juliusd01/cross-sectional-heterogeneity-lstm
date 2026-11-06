@@ -15,6 +15,18 @@ make from-metrics     # everything that needs no licensed data
 Scripts also run standalone with `PYTHONPATH=src`, e.g.
 `PYTHONPATH=src python analysis/tab07_performance.py`.
 
+## Required Data
+
+To reproduce all the results, one needs
+- The index of leavers and joiners for the S&P 500, which can be retrieved from LSEG (formerly Thompson Reuters)
+- Daily prices of the constitutents of the S&P 500. A list with tickers that need to be downloaded from LSEG is [here](data/tickers_lseg.txt)
+- the observations from the 5 covariates presented in the paper from January 1st, 1995 onwards.
+- running the following code gives the input sequences for the LSTM models:
+
+```sh
+python data/add_features.py --oil data/covariates/oil.csv --gold data/covariates/gold.csv --vix data/covariates/vix.csv --rates data/covariates/rates.csv --sectors data/company_sector.csv
+```
+
 ## Reproducing each table and figure
 
 All outputs are committed in `tables/` and `figures/`. `make help` lists

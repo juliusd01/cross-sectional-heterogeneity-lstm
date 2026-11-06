@@ -13,8 +13,8 @@ import argparse
 
 import pandas as pd
 
-from lstm_sector.paths import TABLES, spec
-from lstm_sector.sector_analysis import (RETURN_MEASURES, compare, correlations,
+from paths import TABLES, spec
+from sector_analysis import (RETURN_MEASURES, compare, correlations,
                                          weighted_corr)
 
 # The two case studies discussed in the paper, and their table numbers.

@@ -20,7 +20,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from .paths import PREDICTIONS, SPECS
+from paths import PREDICTIONS, SPECS
 
 KEEP = ['stock', 'date', 'return', 'pred_Class0', 'pred_Class1',
         'predicted_class', 'actual_class']

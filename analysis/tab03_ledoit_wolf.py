@@ -18,8 +18,8 @@ import numpy as np
 import pandas as pd
 from itertools import permutations
 
-from lstm_sector.metrics import load
-from lstm_sector.paths import MARKET_RETURN, TABLES, TRADING_DAYS, spec
+from metrics import load
+from paths import MARKET_RETURN, TABLES, TRADING_DAYS, spec
 
 # ---------------------------------------------------------------------------
 # Configuration

@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from scipy import stats
 
-from lstm_sector.paths import FIGURES, TABLES
+from paths import FIGURES, TABLES
 
 
 def load_data(corr_summary_csv, crisis_years=None):

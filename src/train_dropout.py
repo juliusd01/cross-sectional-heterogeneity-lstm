@@ -9,12 +9,12 @@ import torch
 from torch import nn
 from torch.utils.data import TensorDataset, DataLoader, SequentialSampler
 import torch.optim as optim
-from ._mlflow import mlflow
+from _mlflow import mlflow
 import argparse
 from datetime import datetime
 
-from .paths import MODELS, PREDICTIONS, SEQUENCES
-from .models import get_model
+from paths import MODELS, PREDICTIONS, SEQUENCES
+from models_dropout import get_model
 
 
 def set_seed(seed):
@@ -27,12 +27,13 @@ def set_seed(seed):
     torch.backends.cudnn.benchmark = False
 
 
-def load_data(year, data_path, model_architecture, model_experiment):
+def load_data(args, year, data_path, model_architecture, model_experiment):
     """
     Load and prepare data for training.
     
     Args:
-        year: Year for test set
+        args: Parsed command-line arguments
+        args: Parsed arguments
         data_path: Path to input data
         model_architecture: Type of architecture ('base', 'covariates', 'heterogeneity')
         model_experiment: Experiment type (only needed for 'heterogeneity_covariates')
@@ -44,6 +45,9 @@ def load_data(year, data_path, model_architecture, model_experiment):
     sequences_df = sequences_df.sort_values('date').reset_index(drop=True)
     
     if model_architecture == 'covariates':
+        if args.var_left_out is not None:
+            for var in args.var_left_out:
+                sequences_df.drop(columns=[f'{var}_sequence'], inplace=True, errors='ignore')
         # Multiple features
         feature_names = [col for col in sequences_df.columns if col.endswith('sequence')]
         X = np.stack([np.array(sequences_df[col].tolist()) for col in feature_names], axis=-1)
@@ -193,7 +197,8 @@ def train_model(args, year, data):
         'hidden_size': args.hidden_size,
         'num_classes': 2,
         'num_layers': args.num_layers,
-        'dropout': args.dropout
+        'input_dropout': args.input_dropout,
+        'recurrent_dropout': args.recurrent_dropout
     }
     
     if args.model_architecture == 'heterogeneity':
@@ -258,7 +263,7 @@ def train_model(args, year, data):
     
     # Define loss and optimizer
     criterion = nn.CrossEntropyLoss(label_smoothing=args.label_smoothing)
-    optimizer = optim.Adam(model.parameters(), lr=args.learning_rate)
+    optimizer = optim.Adam(model.parameters(), lr=args.learning_rate, weight_decay=1e-4)
     
     # Learning rate scheduler
     scheduler = optim.lr_scheduler.ReduceLROnPlateau(
@@ -376,6 +381,8 @@ def main():
     parser.add_argument('--model_architecture', type=str, required=True,
                         choices=['base', 'covariates', 'heterogeneity'],
                         help='Model architecture type')
+    parser.add_argument('--var_left_out', type=str, nargs='*', default=None,
+                        help='Variable(s) left out for prediction')
     
     # Data settings
     parser.add_argument('--input_subdir', type=str, required=True,
@@ -391,7 +398,8 @@ def main():
     parser.add_argument('--hidden_size', type=int, default=25, help='LSTM hidden size')
     parser.add_argument('--num_lags', type=int, default=60, help='Number of lags')
     parser.add_argument('--patience', type=int, default=20, help='Early stopping patience')
-    parser.add_argument('--dropout', type=float, default=0.0, help='Dropout rate')
+    parser.add_argument('--input_dropout', type=float, default=0.0, help='Input dropout rate')
+    parser.add_argument('--recurrent_dropout', type=float, default=0.0, help='Recurrent dropout rate')
     parser.add_argument('--label_smoothing', type=float, default=0.1, help='Label smoothing')
     parser.add_argument('--embedding_dim', type=int, default=3, help='Sector embedding dimension (for heterogeneity model)')
     
@@ -408,11 +416,12 @@ def main():
     args = parser.parse_args()
     
     # Auto-set dropout if not specified
-    if args.dropout == 0.0 and args.num_layers > 1:
-        args.dropout = 0.1
+    if args.input_dropout == 0.0 and args.num_layers > 1:
+        args.input_dropout = 0.1
     
     # Generate model ID with job_id for uniqueness
-    args.model_id = f'h_{args.hidden_size}_l_{args.num_layers}_lr_{args.learning_rate}'
+    var_left_out_str = '_'.join(args.var_left_out) if args.var_left_out else 'none'
+    args.model_id = f'h_{args.hidden_size}_l_{args.num_layers}_rd_{args.recurrent_dropout}_id_{args.input_dropout}_{var_left_out_str}'
     if args.batch_size != 64:
         args.model_id += f'_B{args.batch_size}'
     if args.model_architecture == 'heterogeneity':
@@ -438,7 +447,7 @@ def main():
             with mlflow.start_run(run_name=f"year_{year}", nested=True):
                 # Load data
                 data_path = f'{SEQUENCES}/{args.input_subdir}/returns_{year}.parquet'
-                data = load_data(year, data_path, args.model_architecture, args.experiment_type)
+                data = load_data(args, year, data_path, args.model_architecture, args.experiment_type)
                 
                 # Train model
                 train_model(args, year, data)

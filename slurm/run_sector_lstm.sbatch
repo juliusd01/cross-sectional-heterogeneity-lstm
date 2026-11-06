@@ -12,7 +12,7 @@ module load python/3.11
 export PYTHONPATH="${PYTHONPATH}:$(pwd)/src"
 
 # Sector LSTM -- the main specification of the paper.
-python -u -m lstm_sector.train \
+python -u -m train \
     --model_architecture heterogeneity \
     --input_subdir lag_60_sector \
     --model_type lstm_sector \

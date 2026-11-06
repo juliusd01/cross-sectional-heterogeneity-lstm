@@ -41,7 +41,7 @@ import argparse
 import numpy as np
 import pandas as pd
 
-from .paths import COMPANY_SECTOR, COVARIATES, DATA, PRICES, SEQUENCES, STUDY_YEARS
+from paths import COMPANY_SECTOR, COVARIATES, DATA, PRICES, SEQUENCES, STUDY_YEARS
 
 NUM_LAGS = 60
 

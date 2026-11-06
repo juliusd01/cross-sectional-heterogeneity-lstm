@@ -20,7 +20,7 @@ import numpy as np
 import pandas as pd
 import torch
 
-from .paths import COMPANY_SECTOR, PRICES, SECTORS, SECTORS_11
+from paths import COMPANY_SECTOR, PRICES, SECTORS, SECTORS_11
 
 
 def load_returns(year: int) -> pd.DataFrame:

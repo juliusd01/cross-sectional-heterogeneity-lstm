@@ -28,8 +28,8 @@ import numpy as np
 import pandas as pd
 from statsmodels.regression.linear_model import OLS
 
-from lstm_sector.metrics import load, risk_free_rate
-from lstm_sector.paths import (LSTM_FAMILIES, METRICS, SPECS, TABLES,
+from metrics import load, risk_free_rate
+from paths import (LSTM_FAMILIES, METRICS, SPECS, TABLES,
                                TRADING_DAYS)
 
 OUT = TABLES

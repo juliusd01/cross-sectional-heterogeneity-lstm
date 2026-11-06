@@ -9,14 +9,14 @@ level README).
 
 | script | architecture | training entry point |
 | --- | --- | --- |
-| `run_base_lstm.sbatch` | returns only | `lstm_sector.train` |
-| `run_sector_lstm.sbatch` | returns + sector embedding | `lstm_sector.train` |
-| `run_covariates_lstm.sbatch` | returns + 5 macro covariates | `lstm_sector.train_dropout` |
-| `run_covariates_sector_lstm.sbatch` | covariates + sector embedding | `lstm_sector.train` |
-| `run_tabular.sbatch` | random forest / gradient boosting | `lstm_sector.train_tabular` |
+| `run_base_lstm.sbatch` | returns only | `src/train.py` |
+| `run_sector_lstm.sbatch` | returns + sector embedding | `src/train.py` |
+| `run_covariates_lstm.sbatch` | returns + 5 macro covariates | `src/train_dropout.py` |
+| `run_covariates_sector_lstm.sbatch` | covariates + sector embedding | `src/train.py` |
+| `run_tabular.sbatch` | random forest / gradient boosting | `src/train_tabular.py` |
 
-`lstm_sector.train` uses `nn.LSTM` with the standard inter-layer dropout.
-`lstm_sector.train_dropout` uses an explicit `LSTMCell` loop so that input
+`src/train.py` uses `nn.LSTM` with the standard inter-layer dropout.
+`src/train_dropout.py` uses an explicit `LSTMCell` loop so that input
 dropout and recurrent dropout can be applied separately, which the covariate
 models need. Both write weights to `models/` and predictions to `predictions/`.
 

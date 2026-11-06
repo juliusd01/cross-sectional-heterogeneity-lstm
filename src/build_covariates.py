@@ -32,7 +32,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from .paths import COVARIATES
+from paths import COVARIATES
 
 OIL_ANOMALY = pd.Timestamp('2020-04-20')
 

@@ -16,8 +16,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from lstm_sector.metrics import load, risk_free_rate
-from lstm_sector.paths import FIGURES, MAIN_LABELS, TABLES, TRADING_DAYS, spec
+from metrics import load, risk_free_rate
+from paths import FIGURES, MAIN_LABELS, TABLES, TRADING_DAYS, spec
 
 K_LIST = [5, 10, 50, 100, 200]
 PLOT_K = [5, 10, 50, 100]          # k=200 is tabulated but crowds the figure

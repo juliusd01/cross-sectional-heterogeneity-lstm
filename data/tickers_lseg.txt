@@ -1,0 +1,1268 @@
+A.N 
+AA.N 
+AABA.OQ^J19 (expired)
+AAL.N^B97 (expired)
+AAL.OQ 
+AAP.N 
+AAPL.OQ 
+ABBV.N 
+ABI.N^K08 (expired)
+ABK.N^K10 (expired)
+ABMD.OQ^L22 (expired)
+ABNB.OQ 
+ABS.N^F06 (expired)
+ABT.N 
+ACAS.OQ^A17 (expired)
+ACGL.OQ 
+ACN.N 
+ACS.N^B10 (expired)
+ACV.N^K06 (expired)
+ADBE.OQ 
+ADCT.OQ^L10 (expired)
+ADI.OQ 
+ADM.N 
+ADNT.N 
+ADP.OQ 
+ADPT.OQ^H10 (expired)
+ADSK.OQ 
+ADT.N^E16 (expired)
+AEE.N 
+AEP.OQ 
+AES.N 
+AET.N^K18 (expired)
+AET_w.N^L00 (expired)
+AFL.N 
+AFS.N^L00 (expired)
+AGC.N^H01 (expired)
+AGN.N^C15 (expired)
+AGN.N^E20 (expired)
+AHM.N^J98 (expired)
+AIG.N 
+AIRC.N^F24 (expired)
+AIT.N^J99 (expired)
+AIV.N 
+AIZ.N 
+AJG.N 
+AKAM.OQ 
+AKS.N^C20 (expired)
+AL.N^K07 (expired)
+ALB.N 
+ALGN.OQ 
+ALK.N 
+ALL.N 
+ALLE.N 
+ALT.N^K99 (expired)
+ALTR.OQ^L15 (expired)
+ALXN.OQ^G21 (expired)
+AM.N^H13 (expired)
+AMAT.OQ 
+AMCC.OQ^A17 (expired)
+AMCR.N 
+AMD.OQ 
+AME.N 
+AMG.N 
+AMGN.OQ 
+AMH.A^J97 (expired)
+AMP.N 
+AMP.N^D99 (expired)
+AMR.N^A12 (expired)
+AMT.N 
+AMTM.N 
+AMZN.OQ 
+AM^H13 (expired)
+AN.N 
+AN.N^L98 (expired)
+ANDV.N^J18 (expired)
+ANDW.OQ^A08 (expired)
+ANET.N 
+ANF.N 
+ANR.N^G15 (expired)
+ANSS.OQ^G25 (expired)
+ANV.N^D99 (expired)
+AON.N 
+AOS.N 
+APA.OQ 
+APC.N^H19 (expired)
+APCC.OQ^B07 (expired)
+APD.N 
+APH.N 
+APO.N 
+APOL.OQ^B17 (expired)
+APP.OQ 
+APTV.N 
+AR.N^K99 (expired)
+ARC.N^D00 (expired)
+ARE.N 
+ARG.N^E16 (expired)
+AS.N^I99 (expired)
+ASC.N^F99 (expired)
+ASH.N 
+ASIX.N 
+ASN.N^J07 (expired)
+ASND.O^F99 (expired)
+ASO.N^K06 (expired)
+AT.N^K07 (expired)
+ATGE.N 
+ATI.N 
+ATI.N^F99 (expired)
+ATO.N 
+ATVI.OQ^J23 (expired)
+AV.N^J07 (expired)
+AVB.N 
+AVGO.OQ 
+AVP.N^A20 (expired)
+AVY.N 
+AW.N^L08 (expired)
+AWE.N^J04 (expired)
+AWK.N 
+AXON.OQ 
+AXP.N 
+AYE.N^B11 (expired)
+AYI.N 
+AZA.N^F01 (expired)
+AZO.N 
+B.N 
+BA.N 
+BAC.N 
+BAC.N^I98 (expired)
+BALL.N 
+BAX.N 
+BAY.N^H98 (expired)
+BBBY.OQ^E23 (expired)
+BBI.N^A98 (expired)
+BBWI.N 
+BBY.N 
+BC.N 
+BCR.N^L17 (expired)
+BDK.N^C10 (expired)
+BDX.N 
+BEAM.N^E14 (expired)
+BEN.N 
+BEV.N^L97 (expired)
+BFH.N 
+BFI.N^H99 (expired)
+BFO.N^J00 (expired)
+BFb.N 
+BG.N 
+BGEN.OQ^K03 (expired)
+BGG.N^G20 (expired)
+BHF.OQ 
+BHMSQ.OB^A04 (expired)
+BIG.N^I24 (expired)
+BIIB.OQ 
+BIO.N 
+BIVV.OQ^C18 (expired)
+BJS.N^D10 (expired)
+BK.N 
+BKB.N^J99 (expired)
+BKNG.OQ 
+BKR.OQ 
+BLDR.N 
+BLK.N 
+BLS.N^A07 (expired)
+BLY.N^L96 (expired)
+BMC.OQ^I13 (expired)
+BMET.OQ^J07 (expired)
+BMG.N^A01 (expired)
+BMY.N 
+BNET.O^B96 (expired)
+BNI.N^B10 (expired)
+BNL.N^F98 (expired)
+BOAT.O^D99 (expired)
+BOL.N^J07 (expired)
+BR.N 
+BR.N^D06 (expired)
+BRCM.OQ^B16 (expired)
+BRKb.N 
+BRL.N^L08 (expired)
+BRNO.O^H95 (expired)
+BRO.N 
+BSC.N^F08 (expired)
+BSET.OQ 
+BSX.N 
+BT.N^F99 (expired)
+BTU.N^D16 (expired)
+BUD.N^K08 (expired)
+BVSN.OQ^C06 (expired)
+BWA.N 
+BX.N 
+BXLT.N^F16 (expired)
+BXP.N 
+C.N 
+C.N^K98 (expired)
+CA.OQ^K18 (expired)
+CAG.N 
+CAH.N 
+CAL.N 
+CAM.N^D16 (expired)
+CAR.OQ 
+CARR.N 
+CARS.N 
+CAT.N 
+CB.N 
+CB.N^A16 (expired)
+CBB.N^A98 (expired)
+CBE.N^L12 (expired)
+CBH.N^D08 (expired)
+CBOE.Z 
+CBRE.N 
+CBS.N^E00 (expired)
+CBSS.OQ^I07 (expired)
+CC.N^K08 (expired)
+CCB.N^B96 (expired)
+CCEP.OQ 
+CCI.N 
+CCK.N 
+CCL.N 
+CCU.N^G08 (expired)
+CDNS.OQ 
+CDW.OQ 
+CE.N 
+CE.N^B04 (expired)
+CEG.N^C12 (expired)
+CEG.OQ 
+CELG.OQ^K19 (expired)
+CEN.N^K07 (expired)
+CEPH.OQ^J11 (expired)
+CERN.OQ^F22 (expired)
+CF.N 
+CF.N^H04 (expired)
+CFC.N^G08 (expired)
+CFG.N 
+CFL.N^D98 (expired)
+CFN.N^C15 (expired)
+CG.N^K00 (expired)
+CGP.N^A01 (expired)
+CHA.N^F00 (expired)
+CHD.N 
+CHIR.OQ^D06 (expired)
+CHK.N^F20 (expired)
+CHRS.OQ^F12 (expired)
+CHRW.OQ 
+CHTR.OQ 
+CHX.OQ^G25 (expired)
+CI.N 
+CIC.N^E95 (expired)
+CIEN.N 
+CIN.N^D06 (expired)
+CINF.OQ 
+CIT.N^F01 (expired)
+CIT.N^K09 (expired)
+CKL.N^E95 (expired)
+CL.N 
+CLF.N 
+CLX.N 
+CMA.N 
+CMCSA.OQ 
+CMCSK.OQ^L15 (expired)
+CME.OQ 
+CMG.N 
+CMI.N 
+CMS.N 
+CMVT.OQ^B07 (expired)
+CMX.N^C07 (expired)
+CNC.N 
+CNC.N^H02 (expired)
+CNDT.OQ 
+CNG.N^A00 (expired)
+CNP.N 
+CNW.N^J15 (expired)
+CNX.N 
+CNXT.OQ^D11 (expired)
+COC.N^H02 (expired)
+COF.N 
+COIN.OQ 
+COL.N^K18 (expired)
+COMS.OQ^D10 (expired)
+COO.OQ 
+COP.N 
+COR.N 
+COST.OQ 
+COTY.N 
+COV.N^A15 (expired)
+CPAY.N 
+CPB.OQ 
+CPGX.N^G16 (expired)
+CPN.N^L05 (expired)
+CPRI.N 
+CPRT.OQ 
+CPT.N 
+CPWR.OQ^L14 (expired)
+CRL.N 
+CRM.N 
+CRR.N^F97 (expired)
+CRWD.OQ 
+CSCO.OQ 
+CSE.N^K99 (expired)
+CSGP.OQ 
+CSR.N^F00 (expired)
+CSRA.N^D18 (expired)
+CSX.OQ 
+CTAS.OQ 
+CTB.N^F21 (expired)
+CTLT.N^L24 (expired)
+CTRA.N 
+CTSH.OQ 
+CTVA.N 
+CTX.N^H09 (expired)
+CTXS.OQ^J22 (expired)
+CVC.N^F16 (expired)
+CVET.OQ^J22 (expired)
+CVG.N^J18 (expired)
+CVH.N^E13 (expired)
+CVS.N 
+CVX.N 
+CXO.N^A21 (expired)
+CXT.N 
+CYM.N^L99 (expired)
+CYR.N^G96 (expired)
+CZR.OQ 
+D.N 
+DAL.N 
+DAL.N^J05 (expired)
+DASH.OQ 
+DAY.N 
+DCN.N^C06 (expired)
+DD.N 
+DD.N^I17 (expired)
+DDOG.OQ 
+DDS.N 
+DE.N 
+DEC.N^F98 (expired)
+DECK.N 
+DELL.N 
+DELL.OQ^J13 (expired)
+DF.N^K19 (expired)
+DFS.N^E25 (expired)
+DG.N 
+DG.N^G07 (expired)
+DGN.N^J99 (expired)
+DGX.N 
+DHI.N 
+DHR.N 
+DI.N^I98 (expired)
+DIGI.O^I98 (expired)
+DINO.N 
+DIS.N 
+DISCK.OQ^D22 (expired)
+DISH.OQ^A24 (expired)
+DJ.N^L07 (expired)
+DLPH.N^J20 (expired)
+DLR.N 
+DLTR.OQ 
+DLX.N 
+DNB.N^B19 (expired)
+DNR.N^G20 (expired)
+DO.N^D20 (expired)
+DOC.N 
+DOV.N 
+DOW.N 
+DOW.N^I17 (expired)
+DPH.N^J05 (expired)
+DPZ.OQ 
+DRE.N^J22 (expired)
+DRI.N 
+DTE.N 
+DTM.N 
+DTV.OQ^G15 (expired)
+DUK.N 
+DVA.N 
+DVN.N 
+DXC.N 
+DXCM.OQ 
+DYN.N^G12 (expired)
+E.N^E95 (expired)
+EA.OQ 
+EBAY.OQ 
+EC.N^F06 (expired)
+ECH.N^G98 (expired)
+ECL.N 
+ECO.A^B03 (expired)
+ED.N 
+EDS.N^H08 (expired)
+EFU.N^K00 (expired)
+EFX.N 
+EG.N 
+EIX.N 
+EK.N^A12 (expired)
+EL.N 
+ELV.N 
+EMBC.OQ 
+EMC.N^I16 (expired)
+EME.N 
+EMN.N 
+EMR.N 
+ENDP.OQ^H22 (expired)
+ENE.N^A02 (expired)
+ENPH.OQ 
+ENS.N^H97 (expired)
+EOG.N 
+EOP.N^B07 (expired)
+EP.N^E12 (expired)
+EPAM.N 
+EQ.N^G09 (expired)
+EQIX.OQ 
+EQR.N 
+EQT.N 
+ERIE.OQ 
+ES.N 
+ESRX.OQ^L18 (expired)
+ESS.N 
+ESY.N^E95 (expired)
+ETFC.OQ^J20 (expired)
+ETN.N 
+ETR.N 
+ETSY.N 
+EVHC.N^J18 (expired)
+EVHC.N^L16 (expired)
+EVRG.OQ 
+EW.N 
+EXC.OQ 
+EXE.OQ 
+EXPD.N 
+EXPE.OQ 
+EXR.N 
+F.N 
+FANG.OQ 
+FAST.OQ 
+FBF.N^D04 (expired)
+FBIN.N 
+FBO.N^C96 (expired)
+FCN.N^J98 (expired)
+FCPT.N 
+FCX.N 
+FCXb.N^K95 (expired)
+FDC.N^I07 (expired)
+FDO.N^G15 (expired)
+FDS.N 
+FDX.N 
+FE.N 
+FFB.N^A96 (expired)
+FFIV.OQ 
+FG.N^D98 (expired)
+FHI.N 
+FHN.N 
+FICO.N 
+FIS.N 
+FISV.OQ 
+FITB.OQ 
+FJ.N^K00 (expired)
+FL.N^I25 (expired)
+FLE.N^A09 (expired)
+FLIR.OQ^E21 (expired)
+FLM.N^D03 (expired)
+FLR.N 
+FLR_w.N^L00 (expired)
+FLS.N 
+FMC.N 
+FMY.N^E99 (expired)
+FNB.N^L95 (expired)
+FNM.N^G10 (expired)
+FOSL.OQ 
+FOX.OQ 
+FOXA.OQ 
+FPC.N^K00 (expired)
+FRC.N^E23 (expired)
+FRE.N^G10 (expired)
+FRM.N^L96 (expired)
+FRO.N^I99 (expired)
+FRT.N 
+FRX.N^G14 (expired)
+FSH.N^K06 (expired)
+FSLR.OQ 
+FSLb.N^L06 (expired)
+FSR.N^B01 (expired)
+FTI.N 
+FTI.N^A17 (expired)
+FTL.N^E00 (expired)
+FTNT.OQ 
+FTR.OQ^D20 (expired)
+FTRE.OQ 
+FTV.N 
+FWC.N^K02 (expired)
+G.N^J05 (expired)
+GAP.N 
+GAP.N^L10 (expired)
+GAS.N^G16 (expired)
+GAS.N^L11 (expired)
+GD.N 
+GDDY.N 
+GDT.N^D06 (expired)
+GDW.N^J06 (expired)
+GE.N 
+GEHC.OQ 
+GEN.OQ 
+GENZ.OQ^D11 (expired)
+GEV.N 
+GFSa.A^K98 (expired)
+GGP.N^D09 (expired)
+GGP.N^H18 (expired)
+GHC.N 
+GIDL.O^J97 (expired)
+GILD.OQ 
+GIS.N 
+GL.N 
+GLD.N^E97 (expired)
+GLK.N^G05 (expired)
+GLW.N 
+GM.N 
+GM.N^F09 (expired)
+GMCR.OQ^C16 (expired)
+GME.N 
+GNRC.N 
+GNT.N^G98 (expired)
+GNW.N 
+GOOG.OQ 
+GOOGL.OQ 
+GOSHA.OQ^G05 (expired)
+GP.N^L05 (expired)
+GPC.N 
+GPN.N 
+GPU.N^K01 (expired)
+GR.N^G12 (expired)
+GRA.N^I21 (expired)
+GRMN.N 
+GRN.N^L98 (expired)
+GS.N 
+GSX.N^J98 (expired)
+GT.OQ 
+GTE.N^G00 (expired)
+GTW.N^J07 (expired)
+GTX.N^I20 (expired)
+GWF.N^G97 (expired)
+GWW.N 
+GX.N^A02 (expired)
+H.N^D07 (expired)
+H.N^G01 (expired)
+HAL.N 
+HAR.N^C17 (expired)
+HAS.OQ 
+HBAN.OQ 
+HBI.N 
+HBOC.O^A99 (expired)
+HCA.N 
+HCA.N^K06 (expired)
+HCBK.OQ^K15 (expired)
+HCR.N^L07 (expired)
+HD.N 
+HDL.N^C08 (expired)
+HES.N^G25 (expired)
+HET.N^A08 (expired)
+HFS.N^L97 (expired)
+HI.N^C03 (expired)
+HIG.N 
+HII.N 
+HLT.N 
+HLT.N^J07 (expired)
+HM.N^L01 (expired)
+HMA.N^A14 (expired)
+HMX.N^K08 (expired)
+HNZ.N^F13 (expired)
+HOG.N 
+HOLX.OQ 
+HON.OQ 
+HOOD.OQ 
+HOT.N^I16 (expired)
+HP.N 
+HPC.N^K08 (expired)
+HPE.N 
+HPQ.N 
+HRB.N 
+HRC.N^C03 (expired)
+HRL.N 
+HSH.N^H14 (expired)
+HSIC.OQ 
+HSP.N^I15 (expired)
+HST.OQ 
+HSY.N 
+HUBB.N 
+HUM.N 
+HWM.N 
+I.N^D96 (expired)
+IAC.OQ 
+IBKR.OQ 
+IBM.N 
+ICE.N 
+IDXX.OQ 
+IEX.N 
+IFF.N 
+IGT.N^D15 (expired)
+IILGV.OQ^E16 (expired)
+IKN.N^K08 (expired)
+ILMN.OQ 
+IMNX.O^G02 (expired)
+INCY.OQ 
+INFO.N^B22 (expired)
+INGR.OQ^L06 (expired)
+INTC.OQ 
+INTU.OQ 
+INVH.N 
+IP.N 
+IPG.N 
+IPGP.OQ 
+IQV.N 
+IR.N 
+IRM.N 
+ISRG.OQ 
+IT.N 
+ITT.N 
+ITT.N^B98 (expired)
+ITW.N 
+IVZ.N 
+J.N 
+JAVA.OQ^B10 (expired)
+JBGS.N 
+JBHT.OQ 
+JBL.N 
+JCI.N 
+JCI.N^I16 (expired)
+JCP.N^E20 (expired)
+JEF.N 
+JH.N^E07 (expired)
+JHF.N^D04 (expired)
+JKHY.OQ 
+JNJ.N 
+JNPR.N^G25 (expired)
+JNS.N^E17 (expired)
+JNY.N^D14 (expired)
+JOS.N^E00 (expired)
+JOY.N^D17 (expired)
+JP.N^D06 (expired)
+JPM.N 
+JWN.N^E25 (expired)
+K.N 
+KATE.N^G17 (expired)
+KBH.N 
+KD.N 
+KDP.OQ 
+KEY.N 
+KEYS.N 
+KG.N^C11 (expired)
+KHC.OQ 
+KIM.N 
+KKR.N 
+KLAC.OQ 
+KLG.N^I25 (expired)
+KM.N^L02 (expired)
+KMB.OQ 
+KMG.N^H06 (expired)
+KMI.N 
+KMI.N^E07 (expired)
+KMX.N 
+KO.N 
+KR.N 
+KRB.N^A06 (expired)
+KRFT.OQ^G15 (expired)
+KRI.N^F06 (expired)
+KSE.N^H07 (expired)
+KSS.N 
+KSU.N^L21 (expired)
+KTB.N 
+KVUE.N 
+KWP.N^K99 (expired)
+L.N 
+LDG.N^J08 (expired)
+LDOS.N 
+LDW.N^L00 (expired)
+LEG.N 
+LEH.N^I08 (expired)
+LEN.N 
+LH.N 
+LHX.N 
+LIFE.OQ^B14 (expired)
+LII.N 
+LIN.OQ 
+LK.N^C95 (expired)
+LKQ.OQ 
+LLL.N^G19 (expired)
+LLTC.OQ^C17 (expired)
+LLX.N^J97 (expired)
+LLY.N 
+LM.N^H20 (expired)
+LMT.N 
+LNC.N 
+LNT.OQ 
+LO.N^F15 (expired)
+LOR.N^D96 (expired)
+LOTS.O^H95 (expired)
+LOW.N 
+LPX.N 
+LRCX.OQ 
+LSI.OQ^E14 (expired)
+LU.N^L06 (expired)
+LUB.N^E22 (expired)
+LULU.OQ 
+LUMN.N 
+LUV.N 
+LVLT.N^K17 (expired)
+LVS.N 
+LW.N 
+LXK.N^K16 (expired)
+LYB.N 
+LYV.N 
+M.N 
+MA.N 
+MAA.N 
+MAC.N 
+MAI.N^G95 (expired)
+MAR.OQ 
+MAS.N 
+MAT.OQ 
+MAY.N^H05 (expired)
+MBC.N 
+MBI.N 
+MCD.N 
+MCHP.OQ 
+MCIC.O^I98 (expired)
+MCK.N 
+MCO.N 
+MCWEQ.OQ^G02 (expired)
+MD.N^H97 (expired)
+MDLZ.OQ 
+MDP.N^L21 (expired)
+MDR.N^A20 (expired)
+MDT.N 
+MEA.N^A02 (expired)
+MEDI.OQ^F07 (expired)
+MEE.N^F11 (expired)
+MEL.N^G07 (expired)
+MER.N^A09 (expired)
+MERQE.OQ^A06 (expired)
+MET.N 
+META.OQ 
+MFE.N^C11 (expired)
+MGM.N 
+MHK.N 
+MHS.N^D12 (expired)
+MHS_w.N^H03 (expired)
+MI.N^G11 (expired)
+MII.N^F99 (expired)
+MIL.N^G10 (expired)
+MIR.N^E00 (expired)
+MIR.N^G03 (expired)
+MJN.N^F17 (expired)
+MKC.N 
+MKG.N^J00 (expired)
+MKTX.OQ 
+ML.N^C95 (expired)
+MLM.N 
+MMC.N 
+MMI.N^E12 (expired)
+MMM.N 
+MNK.N^J20 (expired)
+MNR.N^I98 (expired)
+MNST.OQ 
+MO.N 
+MOB.N^K99 (expired)
+MOH.N 
+MOLX.OQ^L13 (expired)
+MON.N^F18 (expired)
+MOS.N 
+MPC.N 
+MPWR.OQ 
+MRK.N 
+MRN.N^G96 (expired)
+MRNA.OQ 
+MRO.N^K24 (expired)
+MRP.N 
+MS.N 
+MS.N^F97 (expired)
+MSCI.N 
+MSFT.OQ 
+MSI.N 
+MST.N^H98 (expired)
+MTB.N 
+MTCH.OQ 
+MTD.N 
+MTG.N 
+MTL.N^I99 (expired)
+MTW.N 
+MU.OQ 
+MUR.N 
+MWI.N^C04 (expired)
+MWV.N^G15 (expired)
+MWW.N^K16 (expired)
+MXIM.OQ^H21 (expired)
+MXIM.OQ^J07 (expired)
+MXS.N^F95 (expired)
+MYG.N^D06 (expired)
+MZ.N^E08 (expired)
+N.N^K06 (expired)
+NAE.N^H97 (expired)
+NAV.N^B07 (expired)
+NAVI.OQ 
+NBL.OQ^J20 (expired)
+NBR.N 
+NC.N 
+NCC.N^A09 (expired)
+NCE.N^H00 (expired)
+NCLH.N 
+NDAQ.OQ 
+NDSN.OQ 
+NE.N^H20 (expired)
+NEC.N^F97 (expired)
+NEE.N 
+NEM.N 
+NFB.N^L06 (expired)
+NFLX.OQ 
+NFX.N^B19 (expired)
+NGH.N^L00 (expired)
+NGVT.N 
+NI.N 
+NKE.N 
+NKTR.OQ 
+NLC.N^L99 (expired)
+NLSN.N^J22 (expired)
+NMK.N^A02 (expired)
+NOC.N 
+NOV.N 
+NOVL.OQ^D11 (expired)
+NOW.N 
+NRG.N 
+NSC.N 
+NSI.N^H03 (expired)
+NSM.N^I11 (expired)
+NT.N^A09 (expired)
+NTAP.OQ 
+NTRS.OQ 
+NUE.N 
+NVDA.OQ 
+NVLS.OQ^F12 (expired)
+NVR.N 
+NVT.N 
+NWL.OQ 
+NWS.OQ 
+NWSA.OQ 
+NXPI.OQ 
+NXTL.OQ^H05 (expired)
+NYN.N^H97 (expired)
+NYT.N 
+NYX.N^K13 (expired)
+O.N 
+OAT.N^H01 (expired)
+ODFL.OQ 
+ODP.OQ 
+OEC.N^K97 (expired)
+OG.N^C01 (expired)
+OGN.N 
+OI.N 
+OK.N^D01 (expired)
+OKE.N 
+OM.N^I97 (expired)
+OMC.N 
+OMX.N^K13 (expired)
+ON.OQ 
+ONE.N^G04 (expired)
+ONL.N 
+ORCL.N 
+ORLY.OQ 
+ORX.N^B99 (expired)
+OTIS.N 
+OWC.N^L02 (expired)
+OXY.N 
+PAC.N^D97 (expired)
+PALM.OQ^G10 (expired)
+PANW.OQ 
+PAS.N^C10 (expired)
+PAYC.N 
+PAYX.OQ 
+PBCT.OQ^D22 (expired)
+PBG.N^C10 (expired)
+PBI.N 
+PBY.N^B16 (expired)
+PCAR.OQ 
+PCG.N 
+PCH.OQ 
+PCL.N^B16 (expired)
+PCP.N^B16 (expired)
+PCS.N^D04 (expired)
+PD.N^C07 (expired)
+PDCO.OQ^D25 (expired)
+PDG.N^C06 (expired)
+PEG.N 
+PEL.N^F97 (expired)
+PENN.OQ 
+PEP.OQ 
+PET.N^F98 (expired)
+PETM.OQ^C15 (expired)
+PFE.N 
+PFG.OQ 
+PG.N 
+PGL.N^B07 (expired)
+PGN.N^G12 (expired)
+PGR.N 
+PH.N 
+PHA.N^D03 (expired)
+PHB.N^J99 (expired)
+PHIN.N 
+PHM.N 
+PKG.N 
+PKN.N^E99 (expired)
+PLD.N 
+PLD.N^F11 (expired)
+PLL.N^H15 (expired)
+PLTR.OQ 
+PM.N 
+PMCS.OQ^A16 (expired)
+PMI.N^K99 (expired)
+PNC.N 
+PNR.N 
+PNU.N^C00 (expired)
+PNW.N 
+PODD.OQ 
+POM.N^C16 (expired)
+POOL.OQ 
+PPG.N 
+PPL.N 
+PPW.N^L99 (expired)
+PRD.N^J01 (expired)
+PRGO.N 
+PRSP.N^E21 (expired)
+PRU.N 
+PSA.N 
+PSFT.OQ^A05 (expired)
+PSKY.OQ 
+PSX.N 
+PT.N^E95 (expired)
+PTC.OQ 
+PTV.N^K10 (expired)
+PVH.N 
+PVN.N^F97 (expired)
+PVN.N^J05 (expired)
+PVT.N^F99 (expired)
+PWER.OQ^G13 (expired)
+PWJ.N^K00 (expired)
+PWR.N 
+PXD.N^E24 (expired)
+PYPL.OQ 
+PZE.N^H99 (expired)
+PZS.N^L99 (expired)
+Q.N 
+Q.N^D11 (expired)
+QCOM.OQ 
+QCP.N^G18 (expired)
+QEP.N^C21 (expired)
+QLGC.OQ^H16 (expired)
+QRVO.OQ 
+QTRN.OQ^I03 (expired)
+R.N 
+RAD.N^J23 (expired)
+RAI.N^G17 (expired)
+RAL.N 
+RAL.N^L01 (expired)
+RBD.N^C99 (expired)
+RBK.N^B06 (expired)
+RCL.N 
+RDC.N^D19 (expired)
+REG.OQ 
+REGN.OQ 
+REZI.N 
+RF.N 
+RHI.N 
+RHT.N^G19 (expired)
+RIG.N 
+RJF.N 
+RL.N 
+RLM.N^E00 (expired)
+RMD.N 
+RML.N^H06 (expired)
+RNB.N^L99 (expired)
+ROH.N^D09 (expired)
+ROK.N 
+ROL.N 
+ROP.OQ 
+ROST.OQ 
+RRC.N 
+RRD.N^B22 (expired)
+RSG.N 
+RSH.N^B15 (expired)
+RTN.N^D20 (expired)
+RTN.N^L97 (expired)
+RTX.N 
+RVTY.N 
+RX.N^C10 (expired)
+RYAN.OQ^K06 (expired)
+RYC.N^H99 (expired)
+RYI.N^J07 (expired)
+S.N^C05 (expired)
+S.N^G13 (expired)
+SAF.N^I08 (expired)
+SAI.N^L98 (expired)
+SANM.OQ 
+SAPE.OQ^B15 (expired)
+SB.N^K97 (expired)
+SBAC.OQ 
+SBL.N^A07 (expired)
+SBNY.OQ^C23 (expired)
+SBUX.OQ 
+SCG.N^A19 (expired)
+SCHW.N 
+SCI.N 
+SDS.N^H05 (expired)
+SE.N^B17 (expired)
+SEBL.OQ^B06 (expired)
+SEDG.OQ 
+SEE.N 
+SEG.N^K00 (expired)
+SFA.N^B06 (expired)
+SFS.N^H00 (expired)
+SFX.N^I95 (expired)
+SGI.N^K05 (expired)
+SGP.N^K09 (expired)
+SHEL.N 
+SHLD.OQ^J18 (expired)
+SHN.N^G00 (expired)
+SHW.N 
+SIAL.OQ^K15 (expired)
+SIG.N 
+SII.N^H10 (expired)
+SITC.N 
+SIVB.OQ^C23 (expired)
+SJM.N 
+SK.N^E98 (expired)
+SK.N^F00 (expired)
+SKY.N 
+SLB.N 
+SLG.N 
+SLM.OQ 
+SLR.N^J07 (expired)
+SLVM.N 
+SMCI.OQ 
+SMI.N^I01 (expired)
+SMS.N^G00 (expired)
+SMS^G00 (expired)
+SNA.N 
+SNC.N^K95 (expired)
+SNDK.OQ 
+SNDK.OQ^E16 (expired)
+SNI.OQ^C18 (expired)
+SNPS.OQ 
+SNT.N^J99 (expired)
+SNV.N 
+SO.N 
+SOLS.OQ 
+SOLV.N 
+SOTR.OQ^K04 (expired)
+SOV.N^A09 (expired)
+SPG.N 
+SPGI.N 
+SPLS.OQ^I17 (expired)
+SPP.N^L95 (expired)
+SPXC.N 
+SRCL.OQ^K24 (expired)
+SRE.N 
+SRR.N^H07 (expired)
+SSP.OQ 
+STE.N 
+STI.N^L19 (expired)
+STJ.N^A17 (expired)
+STLD.OQ 
+STO.N^K98 (expired)
+STR.N^I16 (expired)
+STT.N 
+STX.OQ 
+STZ.N 
+SUB.N^C01 (expired)
+SUN.N^J12 (expired)
+SUNE.N^D16 (expired)
+SVU.N^J18 (expired)
+SW.N 
+SWK.N 
+SWKS.OQ 
+SWN.N^J24 (expired)
+SWY.N^A15 (expired)
+SYF.N 
+SYK.N 
+SYY.N 
+T.N 
+T.N^K05 (expired)
+TA.N^G99 (expired)
+TAP.N 
+TAPb.N^D04 (expired)
+TCOMA.O^C99 (expired)
+TDC.N 
+TDG.N 
+TDM.N^I97 (expired)
+TDY.N 
+TDY.N^H96 (expired)
+TE.N^G16 (expired)
+TECH.OQ 
+TEG.N^F15 (expired)
+TEK.N^K07 (expired)
+TEL.N 
+TEN.N^K22 (expired)
+TER.OQ 
+TEX.N 
+TFC.N 
+TFCF.OQ^C19 (expired)
+TFCFA.OQ^C19 (expired)
+TFX.N 
+TGNA.N 
+TGT.N 
+THC.N 
+TIE.N^A13 (expired)
+TIF.N^A21 (expired)
+TIN.N^B12 (expired)
+TJX.N 
+TKO.N 
+TKR.N 
+TLAB.OQ^L13 (expired)
+TMC.N^F00 (expired)
+TMO.N 
+TMUS.OQ 
+TNB.N^E12 (expired)
+TNL.N 
+TOS.N^I01 (expired)
+TOY.N^G05 (expired)
+TPL.N 
+TPR.N 
+TRB.N^L07 (expired)
+TRGP.N 
+TRIP.OQ 
+TRMB.OQ 
+TROW.OQ 
+TRV.N 
+TRW.N^L02 (expired)
+TSCO.OQ 
+TSG.N^D07 (expired)
+TSLA.OQ 
+TSN.N 
+TSS.N^I19 (expired)
+TT.N 
+TT.N^F08 (expired)
+TTD.OQ 
+TTWO.OQ 
+TUP.N^I24 (expired)
+TWC.N^E16 (expired)
+TWTR.N^J22 (expired)
+TWX.N^A01 (expired)
+TWX.N^F18 (expired)
+TX.N^J01 (expired)
+TXN.OQ 
+TXT.N 
+TXU.N^J07 (expired)
+TYL.N 
+U.N^H02 (expired)
+UA.N 
+UAA.N 
+UAL.OQ 
+UBER.N 
+UCC.N^D99 (expired)
+UCL.N^H05 (expired)
+UCM.N^J00 (expired)
+UDR.N 
+UEP.N^L97 (expired)
+UHS.N 
+UIS.N 
+UK.N^B01 (expired)
+ULTA.OQ 
+UMG.N^F00 (expired)
+UN.N^K20 (expired)
+UNH.N 
+UNM.N 
+UNP.N 
+UPC.N^G04 (expired)
+UPJ.N^K95 (expired)
+UPR.N^G00 (expired)
+UPS.N 
+URBN.OQ 
+URI.N 
+USB.N 
+USH.N^F97 (expired)
+USHC.O^G96 (expired)
+USS.N^J98 (expired)
+UST.N^A09 (expired)
+UVN.N^C07 (expired)
+V.N 
+VAL.N^H20 (expired)
+VAR.N^D21 (expired)
+VAT.N^I96 (expired)
+VC.N^C09 (expired)
+VFC.N 
+VIAB.OQ^L19 (expired)
+VIAV.OQ 
+VICI.N 
+VLO.N 
+VLTO.N 
+VMC.N 
+VNO.N 
+VNT.N 
+VO.N^L00 (expired)
+VREX.OQ 
+VRSK.OQ 
+VRSN.OQ 
+VRTS.OQ^G05 (expired)
+VRTX.OQ 
+VSCO.N 
+VSM.N^J19 (expired)
+VST.N 
+VTR.N 
+VTRS.OQ 
+VTSS.OQ^F06 (expired)
+VVI.N^G04 (expired)
+VYX.N 
+VZ.N 
+WAB.N 
+WAI.N^H98 (expired)
+WAT.N 
+WB.N^A09 (expired)
+WB.N^H01 (expired)
+WBA.OQ^H25 (expired)
+WBD.OQ 
+WCG.N^A20 (expired)
+WCOEQ.OQ^G02 (expired)
+WDAY.OQ 
+WDC.OQ 
+WEC.N 
+WELL.N 
+WEN.N^I08 (expired)
+WFC.N 
+WFC.N^K98 (expired)
+WFM.OQ^H17 (expired)
+WFT.N^E19 (expired)
+WHR.N 
+WIN.N^B05 (expired)
+WIN.OQ^C19 (expired)
+WLA.N^F00 (expired)
+WLL.N^C02 (expired)
+WLP.N^L04 (expired)
+WM.N 
+WM.N^I08 (expired)
+WMB.N 
+WMT.N 
+WMX.N^G98 (expired)
+WOR 
+WOR.N 
+WPX.N^A21 (expired)
+WRB.N 
+WRK.N^G24 (expired)
+WSM.N 
+WST.N 
+WTW.OQ 
+WU.N 
+WWY.N^J08 (expired)
+WY.N 
+WYE.N^J09 (expired)
+WYNN.OQ 
+X.N^F25 (expired)
+XEC.N^J21 (expired)
+XEL.OQ 
+XL.N^I18 (expired)
+XLNX.OQ^B22 (expired)
+XOM.N 
+XRAY.OQ 
+XRX.OQ 
+XTO.N^F10 (expired)
+XYL.N 
+XYZ.N 
+YELL.OQ^H23 (expired)
+YNR.N^J00 (expired)
+YUM.N 
+YUMC.N 
+ZBH.N 
+ZBRA.OQ 
+ZE.N^E98 (expired)
+ZIMV.OQ^J25 (expired)
+ZION.OQ 
+ZRN.N^F98 (expired)
+ZTS.N 

@@ -17,8 +17,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from lstm_sector.metrics import load
-from lstm_sector.paths import FIGURES, TABLES, TRADING_DAYS, spec
+from metrics import load
+from paths import FIGURES, TABLES, TRADING_DAYS, spec
 
 # Names are used verbatim in the CSV and read back by fig10_11.
 MODELS = {

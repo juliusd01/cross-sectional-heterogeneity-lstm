@@ -78,12 +78,12 @@ SEQUENCE_VARIANTS = lag_60 lag_60_sector lag_60_cov lag_60_cov_sector tabular
 
 covariates:
 	@test -n "$(SOURCE_DIR)" || { echo "usage: make covariates SOURCE_DIR=/path/to/vendor/extracts"; exit 1; }
-	$(PYTHON) -m lstm_sector.build_covariates --source-dir $(SOURCE_DIR)
+	$(PYTHON) -m build_covariates --source-dir $(SOURCE_DIR)
 
 sequences:
 	@for v in $(SEQUENCE_VARIANTS); do \
 	    echo "building $$v ..."; \
-	    $(PYTHON) -m lstm_sector.build_sequences --variant $$v || exit 1; \
+	    $(PYTHON) -m build_sequences --variant $$v || exit 1; \
 	done
 
 # Only removes what `make from-metrics` can put back, so running it on a machine
